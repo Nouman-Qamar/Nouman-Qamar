@@ -40,12 +40,6 @@ VS Code • Figma • Postman • Canva • npm
 | 🥛 DairyDelights | Dairy product website with billing form and product management. | HTML, CSS, JS |
 | 🎮 Game Launcher | A C++ SFML-based project featuring multiple mini-games. | C++, SFML |
 
----
-
- 📊 GitHub Stats
-
-![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=noumanqamar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noumanqamar&layout=compact&theme=radical)
 
 ---
 
