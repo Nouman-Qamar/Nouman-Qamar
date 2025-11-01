@@ -20,11 +20,14 @@ I love crafting elegant, functional, and user-friendly web experiences. Whether 
 Frontend Development:  
 HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Ant Design  • Node.js
 
+
 Backend & Database:  
 Python • MongoDb • SQLite  • Express.js  
 
+
 Other Skills: 
 C++ • Git & GitHub • WordPress  • UI/UX Design  
+
 
 Tools I Use: 
 VS Code • Figma • Postman • Canva • npm  
@@ -45,9 +48,9 @@ VS Code • Figma • Postman • Canva • npm
 
  📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266/ 
 - 💌 Email: noumanqamar222@gmail.com 
-- 🌐 Portfolio: (Coming Soon)  
+- 🌐 Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/ 
 
 ---
 
