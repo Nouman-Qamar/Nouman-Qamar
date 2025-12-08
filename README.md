@@ -1,61 +1,96 @@
-🌟 About Me
+👋 Hi there, I'm Muhammad Nouman Qamar!
 
-👋 Hi, I’m Muhammad Nouman Qamar — a passionate Frontend Developer, Python Programmer, and lifelong learner from Lahore, Pakistan.
-I love crafting elegant, functional, and user-friendly web experiences. Whether it’s a beautiful UI or a data-driven backend, I enjoy turning ideas into digital reality.
+I'm a passionate Frontend Developer, Python Programmer, and tech enthusiast from Lahore, Pakistan. I love building clean, functional, and user-centric digital experiences. From crafting beautiful UIs to developing data-driven applications, I enjoy turning ideas into real, impactful projects.
 
- 💻 Frontend Developer | Python Programmer | Web Enthusiast  
+I’m always exploring new technologies, improving my skill set, and pushing my creativity to the next level.
 
-- 🎓 BS Computer Science student at University of Management and Technology (UMT)  
-- 💼 Internships: Python Intern @ CodeAlpha | Web Developer Intern @ OASIS Infobyte
-- 🧠 Currently learning Machine Learning Models and MERN
-- 🏗️ Working on personal projects like PEUNE  (Ecomerece Website), DairyDelights, and QuizzApp 
-- ⚙️ Interests: Corporate Software, Blockchain Applications, and AI Integration
-- ⚡ Fun fact: I enjoy solving problems, exploring new tech, and writing creative stories!
-- 🎯 Goal: To build impactful digital solutions that empower businesses and users alike
+🛠 Technical Skills
+Languages & Core
 
----
+C++
 
- 🛠️ Tech Stack & Tools
+Python
 
-Frontend Development:  
-HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Ant Design  • Node.js
+JavaScript
 
+HTML5 & CSS3
 
-Backend & Database:  
-Python • MongoDb • SQLite  • Express.js  
+Frontend Development
 
+React.js
 
-Other Skills: 
-C++ • Git & GitHub • WordPress  • UI/UX Design  
+Tailwind CSS
 
+Ant Design
 
-Tools I Use: 
-VS Code • Figma • Postman • Canva • npm  
+UI/UX Design
 
----
+Backend & Database
 
- 🌟 Featured Projects
+Node.js
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧠 QuizApp | An interactive quiz application built with React and Ant Design. | React, CSS |
-| 🏪 PEUNE Online | A complete e-commerce website with cart and checkout functionality. | HTML, CSS, JS, REACT |
-| 🥛 DairyDelights | Dairy product website with billing form and product management. | HTML, CSS, JS |
-| 🎮 Game Launcher | A C++ SFML-based project featuring multiple mini-games. | C++, SFML |
+Express.js
 
+MongoDB
 
----
+SQLite
 
- 📫 Connect with Me
+Other Tools & Technologies
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266/ 
-- 💌 Email: noumanqamar222@gmail.com 
-- 🌐 Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/ 
+Git & GitHub
 
----
+WordPress
 
-⭐ **"Building ideas into reality — one line of code at a time."**
+VS Code
 
+Figma
 
+Postman
 
+Canva
 
+📚 Experience & Learning
+
+Completed Python Internship @ CodeAlpha
+
+Completed Web Developer Internship @ OASIS Infobyte
+
+Currently learning Machine Learning Models & MERN Stack
+
+Built multiple data-driven and UI-focused projects
+
+Strong foundation in OOP, DSA, software development, and UI design
+
+Exploring blockchain-based applications, corporate software, and AI integrations
+
+📈 Featured Projects
+Project	Description	Tech
+🧠 QuizApp	Interactive quiz app with modern UI	React, CSS
+🏪 PEUNE Online	Full e-commerce website with cart & checkout	HTML, CSS, JS, React
+🥛 DairyDelights	Dairy product site with billing & product management	HTML, CSS, JS
+🎮 Game Launcher	C++ SFML game launcher with mini-games	C++, SFML
+🚀 What I’m Exploring
+
+I am currently expanding my expertise in:
+
+Intelligent automation
+
+AI-powered software solutions
+
+MERN stack development
+
+Cloud-ready and scalable backend systems
+
+🤝 Open to Opportunities
+
+I’m looking for roles where I can apply my skills in web development, software engineering, and AI-integrated applications — especially opportunities that challenge me to grow and innovate.
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266/
+
+💌 Email: noumanqamar222@gmail.com
+
+🌐 Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/
+
+⭐ "Building ideas into reality — one line of code at a time."
