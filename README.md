@@ -69,17 +69,14 @@ Creative digital solutions
 
 Especially roles that help me grow, collaborate, and innovate.
 
-📫 How to Reach Me
+**📫 How to Reach Me**
 
-LinkedIn: www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266
+**LinkedIn:** www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266
 
-Email: noumanqamar222@gmail.com
+**Email:** noumanqamar222@gmail.com
 
-Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/
+**Portfolio:** https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/
 
-📊 GitHub Stats
-
-(You can add your GitHub stats images here if you want — just tell me and I’ll generate the code.)
 
 Thanks for stopping by!
 Feel free to explore my repositories — I’m always excited to build, learn, and collaborate. 🚀
