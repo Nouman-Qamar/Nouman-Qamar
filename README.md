@@ -1,96 +1,85 @@
-👋 Hi there, I'm Muhammad Nouman Qamar!
+Hi there, I'm Nouman! 👋
 
-I'm a passionate Frontend Developer, Python Programmer, and tech enthusiast from Lahore, Pakistan. I love building clean, functional, and user-centric digital experiences. From crafting beautiful UIs to developing data-driven applications, I enjoy turning ideas into real, impactful projects.
+I'm a Computer Science student and a passionate Frontend Developer, Python Programmer, and tech enthusiast from Lahore. I love creating clean, functional, and visually appealing digital experiences. Whether it's a polished UI, a Python script, or a full-stack project, I enjoy transforming ideas into meaningful solutions.
 
-I’m always exploring new technologies, improving my skill set, and pushing my creativity to the next level.
+With a strong foundation in programming, problem-solving, and modern frameworks, I actively explore how emerging technologies like ML, automation, and scalable web systems can be integrated to build smarter applications.
 
 🛠 Technical Skills
-Languages & Core
 
-C++
+Languages:
+HTML, CSS, JavaScript, Python, C++
 
-Python
+Frontend Development:
+React.js, Tailwind CSS, Ant Design, UI/UX Principles
 
-JavaScript
+Backend & Databases:
+Node.js, Express.js, MongoDB, SQLite
 
-HTML5 & CSS3
+Core Concepts:
+Object-Oriented Programming, Data Structures & Algorithms, Problem Solving, Software Design Principles
 
-Frontend Development
+Tools & Technologies:
+Git & GitHub, VS Code, Figma, Postman, WordPress, Canva, npm
 
-React.js
+📚 Relevant Experience & Learning
 
-Tailwind CSS
+Completed internships as Python Intern @ CodeAlpha and Web Developer Intern @ OASIS Infobyte
 
-Ant Design
+Built multiple frontend and full-stack projects, focusing on real-world usability and clean interface design
 
-UI/UX Design
+Learning and experimenting with Machine Learning models and MERN stack development
 
-Backend & Database
+Experienced in turning client requirements into functional, user-friendly websites
 
-Node.js
+Familiar with modern development workflows, API handling, and scalable UI development
 
-Express.js
+📈 Projects & Achievements
 
-MongoDB
+Developed QuizApp using React and Ant Design
 
-SQLite
+Built PEUNE Online, a complete e-commerce website with cart & checkout
 
-Other Tools & Technologies
+Created DairyDelights, a dairy management and billing system
 
-Git & GitHub
+Designed a Game Launcher in C++ (SFML) featuring multiple mini-games
 
-WordPress
+Recognized for consistency, strong performance, and completing high-quality academic & personal projects
 
-VS Code
-
-Figma
-
-Postman
-
-Canva
-
-📚 Experience & Learning
-
-Completed Python Internship @ CodeAlpha
-
-Completed Web Developer Internship @ OASIS Infobyte
-
-Currently learning Machine Learning Models & MERN Stack
-
-Built multiple data-driven and UI-focused projects
-
-Strong foundation in OOP, DSA, software development, and UI design
-
-Exploring blockchain-based applications, corporate software, and AI integrations
-
-📈 Featured Projects
-Project	Description	Tech
-🧠 QuizApp	Interactive quiz app with modern UI	React, CSS
-🏪 PEUNE Online	Full e-commerce website with cart & checkout	HTML, CSS, JS, React
-🥛 DairyDelights	Dairy product site with billing & product management	HTML, CSS, JS
-🎮 Game Launcher	C++ SFML game launcher with mini-games	C++, SFML
-🚀 What I’m Exploring
+🚀 What I'm Exploring
 
 I am currently expanding my expertise in:
 
-Intelligent automation
-
-AI-powered software solutions
-
-MERN stack development
-
-Cloud-ready and scalable backend systems
+✅ Machine Learning & AI models
+✅ MERN stack (MongoDB, Express, React, Node.js)
+✅ Scalable backend systems
+✅ Blockchain-based software solutions
+✅ Corporate-level software design
 
 🤝 Open to Opportunities
 
-I’m looking for roles where I can apply my skills in web development, software engineering, and AI-integrated applications — especially opportunities that challenge me to grow and innovate.
+I'm seeking opportunities where I can contribute to:
 
-📫 Connect With Me
+Frontend development
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266/
+Web applications
 
-💌 Email: noumanqamar222@gmail.com
+AI-powered systems
 
-🌐 Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/
+Creative digital solutions
 
-⭐ "Building ideas into reality — one line of code at a time."
+Especially roles that help me grow, collaborate, and innovate.
+
+📫 How to Reach Me
+
+LinkedIn: www.linkedin.com/in/muhammad-nouman-qamar-4a25b3266
+
+Email: noumanqamar222@gmail.com
+
+Portfolio: https://nouman-qamar.github.io/Nouman-Qamar-Portfolio/
+
+📊 GitHub Stats
+
+(You can add your GitHub stats images here if you want — just tell me and I’ll generate the code.)
+
+Thanks for stopping by!
+Feel free to explore my repositories — I’m always excited to build, learn, and collaborate. 🚀
