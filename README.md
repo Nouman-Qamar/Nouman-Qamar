@@ -4,7 +4,7 @@ I'm a Computer Science student and a passionate Frontend Developer, Python Progr
 
 With a strong foundation in programming, problem-solving, and modern frameworks, I actively explore how emerging technologies like ML, automation, and scalable web systems can be integrated to build smarter applications.
 
-🛠 Technical Skills
+**🛠 Technical Skills**
 
 Languages:
 HTML, CSS, JavaScript, Python, C++
@@ -21,7 +21,7 @@ Object-Oriented Programming, Data Structures & Algorithms, Problem Solving, Soft
 Tools & Technologies:
 Git & GitHub, VS Code, Figma, Postman, WordPress, Canva, npm
 
-📚 Relevant Experience & Learning
+**📚 Relevant Experience & Learning**
 
 Completed internships as Python Intern @ CodeAlpha and Web Developer Intern @ OASIS Infobyte
 
@@ -33,7 +33,7 @@ Experienced in turning client requirements into functional, user-friendly websit
 
 Familiar with modern development workflows, API handling, and scalable UI development
 
-📈 Projects & Achievements
+**📈 Projects & Achievements**
 
 Developed QuizApp using React and Ant Design
 
@@ -45,7 +45,7 @@ Designed a Game Launcher in C++ (SFML) featuring multiple mini-games
 
 Recognized for consistency, strong performance, and completing high-quality academic & personal projects
 
-🚀 What I'm Exploring
+**🚀 What I'm Exploring**
 
 I am currently expanding my expertise in:
 
@@ -55,7 +55,7 @@ I am currently expanding my expertise in:
 ✅ Blockchain-based software solutions
 ✅ Corporate-level software design
 
-🤝 Open to Opportunities
+**🤝 Open to Opportunities**
 
 I'm seeking opportunities where I can contribute to:
 
